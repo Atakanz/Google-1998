@@ -1,0 +1,121 @@
+
+.logo {
+    margin: auto;
+    display: block;
+    text-align:center;
+}
+
+.searchtotal {
+    height: 64.4px;
+    width: 1364px;
+    margin: auto;
+    background-color:#EEEEEE;
+    position: relative;
+    top:-18px;
+}
+
+.aramayap,.search {
+    text-align: center;
+    font-weight: normal;
+    font-size: 16px;
+}
+
+#searchbutton {
+  position:relative;
+  bottom:16px;
+  left:112px;
+  bottom: 15px;
+  padding: 1px 2px;
+}
+
+#subbutton1 {
+    position:relative;
+    left:-154px;
+    bottom:-7px;
+}
+
+#subbutton2 {
+    position:relative;
+    left:-154px;
+    bottom:-7px;
+}
+
+.blues {
+    float:left;
+    height:76.4px;
+    margin:0.8px;
+    position: relative;
+    right:-77.5px;
+    top:-0.8px;
+}
+
+.container {
+    margin:0 auto 0 auto; 
+    text-align:center;
+    position:relative;
+    top:-17px;
+}
+
+#blues1 {
+width:503.79px;
+background-color:#7EE5DA;
+font-size: 16px;
+}
+
+#blues2 {
+width:272.7px;  
+background-color:#70CCC2;
+font-size: 13px;
+}
+
+#blues3 {
+width:583.11px;  
+background-color:#62B3AA;
+font-size: 13px;
+}
+
+#getgoogle {
+    position:relative;
+    top:-11px;
+}
+
+#subbutton3 {
+    position:relative;
+    top:-25px;
+    left:62px; 
+    padding:1px 2px;
+}
+#subbutton4 {
+    position:relative;
+    top:-3px;
+    right:93px;
+}
+
+#archref {
+    position:relative;
+    top:-5px;
+    right:83px;
+}
+
+#list {
+    position:relative;
+    bottom:-8px;
+}
+
+.linkcolor {
+    color:#0000EE;
+}
+
+#blues1p {
+   position:relative;
+   top:-6px;
+}
+
+footer {
+    text-align:center;
+    position: relative;
+    top:-9.5px;
+}
+
+
+
